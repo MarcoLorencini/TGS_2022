@@ -1,0 +1,28 @@
+1) Defina informação, com suas palavras. 
+Conjunto de dados que geram um significado, compreensível para aquele o qual compreende o contexto sobre o que a informação está se tratando
+
+2) Descreva cada uma das características da informação. 
+Precisa: Não pode haver erros ("entra lixo, sai lixo")
+Completa: Contém tudo o que é relevante para haver significado 
+Econômica: deve-se balancear a relevância das informações com o custo para que ela seja obtida
+Flexível: Gerar a possibilidade de ser usada de diferentes formas
+Confiável: Vericidade dos dados obtidos
+Relevante: Importância sobre determinado processo ou decisão
+Clara: devem ser de fácil entendimento
+Veloz: Disponível sempre que for necessário
+Verificável: Capacidade de ser avaliada quando for preciso
+Acessível: Facilmente acessível para pessoas autorizadas
+Segura: Respeitar a autoridade de quem pode e não pode acessar
+
+3) Defina SI e TI de acordo com os autores da literatura. 
+SI se trata de um conjunto de componentes interrelacionados que coletam, processam, armazenam e distribuem informações para o suporte, controle e à tomada de decisões nas organizações. A TI em si, serve como infraestrutura de suporta para ocorrer os SI, envolvendo relacionamentos entre negócio e operações eficientes e eficazes, capacitações, formas de comunicação e outros fatores que compõem uma base maior para o conhecimento.
+
+4) Sabe-se que a definição de SI e TI ainda não é bem consolidado. Portanto, defina SI e TI, 
+de acordo com a sua opinião. 
+Os SI é um componente organizado em várias camadas compostas por diferentes itens, sendo estes relevantes para o contexto inserido. Assim, TI vem para dar suporte e satisfazer as necessidades e fatores o qual precisam ser concluídas pelo SI, sendo utilizada como uma ferramenta crucial.
+
+5) Defina SI e TI na visão ancorada na TGS. 
+O SI são conjunto de componentes que dão suporte, controle e ajudam na tomada de decisão de organizações. A TI entra como auxiliar para fazer com o que o processo de Si ocorra.
+
+6) Defina, enquanto área de pesquisa e atuação profissional o que os SIs abrangem.
+Planejamento, auditoria, gerência, organização da função, qualidade e melhoria de processos, implementação e aplicações específicas, sistemas de gestão do conhecimento e sistemas de apoio à decisão

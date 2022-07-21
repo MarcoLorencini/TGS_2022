@@ -1,0 +1,8 @@
+17) Decisão sob certeza - cada alternativa leva a uma e
+apenas uma consequência.
+Decisão sob risco - cada alternativa terá uma das várias
+consequências possíveis, e a probabilidade de ocorrência de cada
+resultado é conhecido.
+Decisão sob incerteza - cada alternativa terá uma das várias
+consequências possíveis, e a probabilidade de ocorrência de cada
+resultado é desconhecido.
